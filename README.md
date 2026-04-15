@@ -16,7 +16,7 @@ The goal of this project was to move beyond basic recording and implement a main
 - **Test Runner:** Playwright Test
 
 ## 📋 How to Run
-1. Clone the repo: `git clone <your-repo-link>`
+1. Clone the repo: `git clone <https://github.com/thedatafae/Playwright-SQA-Portfolio>`
 2. Install dependencies: `npm install`
 3. Run tests: `npx playwright test`
 4. View Report: `npx playwright show-report`
